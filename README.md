@@ -1,6 +1,13 @@
 # Blog
 Proyecto blog - CoderHouse
 
+LINK GOOGLE DRIVE DONDE SE ALOJA VIDEO Y CASOS DE PRUEBA:
+
+https://drive.google.com/drive/folders/1vijlMNLiCEwLXc_DjacyQ6OZ23s4EbFi
+
+
+README: 
+
 Blog Interestelar:
 Este blog tiene el propósito de divulgar conocimientos sobre astronomía. El mismo cuenta con una sección de creación de usuarios y logueo. 
 Los post del blog son accesibles a cualquiera que desee leerlos, pero para crearlos deben estar registrados y logueados previamente, la creación se realiza mediante la sección "PERFIL".
